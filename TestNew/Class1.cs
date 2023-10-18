@@ -8,5 +8,6 @@ namespace TestNew
 {
     internal class Class1
     {
+        //this is a comment i should see
     }
 }
